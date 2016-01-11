@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/preferences-system.png</file>
+        <file>icons/application-exit.png</file>
+        <file>icons/qgauges.png</file>
+        <file>icons/system-help.png</file>
+    </qresource>
+</RCC>
